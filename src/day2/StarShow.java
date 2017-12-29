@@ -33,7 +33,7 @@ int starSize = 25;
 			// 11. Set the Y position of the robot to your Y variable
 	
 			// 9. Call the drawStar() method with your star size variable
-	drawStar();
+	//drawStar();
 			// 14. Increase the value of the X position variable by star size. See Figure 2
 	
 			// 15. decrease the value of the Y position variable by star size. See Figure 3
